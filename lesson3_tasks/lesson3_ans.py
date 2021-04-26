@@ -1,3 +1,4 @@
+#lesson 3 answers for questions
 # Q1 5 ning 4-darajasini toping
 from math import sqrt
 
